@@ -1,6 +1,10 @@
 # Predict-Future-Sales---Kaggle-Compation
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
+My Kernel
+
+https://www.kaggle.com/idanova/kernel36dac62763/edit/run/26457731
+
 
 # **Predict Future Sales**
 
